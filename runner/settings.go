@@ -1,8 +1,8 @@
 package runner
 
 import (
-	"dllreload/config"
 	"fmt"
+	"github.com/dllgo/dllreload/config"
 	"os"
 	"path/filepath"
 	"runtime"

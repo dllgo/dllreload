@@ -1,10 +1,9 @@
-
 package main
 
 import (
-	"dllreload/runner"
 	"flag"
 	"fmt"
+	"github.com/dllgo/dllreload/runner"
 	"os"
 )
 
